@@ -8,7 +8,7 @@ tools目录包含一个拆分bmp图片，产生模版文件的程序。编译方
 + autoconf
 + autoheader
 + aclocal
-+ automake
++ automake --add-missing
 + ./configure
 + make
 + ./tools 1517.bmp
